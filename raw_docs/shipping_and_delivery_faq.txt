@@ -1,0 +1,17 @@
+Shipping and delivery support assists customers with questions related to
+shipping methods, delivery timelines, charges, and address modifications.
+
+Frequently addressed shipping concerns include:
+- Estimated delivery timelines after order confirmation
+- Availability of expedited or standard shipping options
+- Changes to delivery address before dispatch
+- Actions to take if an order is delayed, damaged, or lost in transit
+
+Delivery timelines depend on multiple factors such as product category,
+warehouse location, shipping method, and customer delivery address. Larger
+items such as furniture, electronics, or home appliances may require longer
+handling and delivery times compared to smaller packages.
+
+If a delivery issue occurs, customer support coordinates with logistics
+partners to investigate and resolve the issue while keeping the customer
+informed throughout the process.

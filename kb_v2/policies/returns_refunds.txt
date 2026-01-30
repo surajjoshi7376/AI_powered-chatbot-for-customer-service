@@ -1,0 +1,11 @@
+REFUND_PROCESS:
+Refunds are issued only after returned items are received, inspected, and approved.
+Refunds are sent to the original payment method.
+
+REFUND_TIMELINES:
+Refund timelines depend on payment provider, product category, and bank processing.
+Exact dates cannot be guaranteed.
+
+NON_RETURNABLE:
+Personalized items are non-returnable unless defective or damaged.
+Hygiene products, consumables, and perishables are also non-returnable.

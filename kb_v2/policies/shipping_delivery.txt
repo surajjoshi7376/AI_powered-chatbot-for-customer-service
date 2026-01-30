@@ -1,0 +1,12 @@
+DELIVERY_ESTIMATES:
+Delivery timelines depend on product category, shipping method, warehouse location, and address.
+
+NO_EXACT_DATES:
+Exact delivery dates cannot be guaranteed without order verification.
+
+ADDRESS_CHANGE:
+Delivery address changes are allowed only before dispatch.
+Once dispatched, address changes may not be possible.
+
+DELIVERY_ISSUES:
+If an order is marked delivered but not received, customer support must investigate with logistics partners.

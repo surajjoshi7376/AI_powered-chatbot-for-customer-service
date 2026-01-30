@@ -1,0 +1,17 @@
+USER: My order says delivered but I never received it.
+THINKING:
+This is a delivery issue. Order verification is required.
+ACTION:
+Explain investigation process and request order number.
+
+USER: I returned an item two weeks ago but haven’t received my refund.
+THINKING:
+Refund policy applies. Timelines vary. Exact date unknown.
+ACTION:
+Explain refund process and request order number if needed.
+
+USER: Can you guarantee delivery tomorrow?
+THINKING:
+Guarantees are not allowed.
+ACTION:
+Politely refuse guarantee and explain estimation limits.

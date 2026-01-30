@@ -1,0 +1,18 @@
+Order and stock support focuses on assisting customers with order processing,
+tracking, and product availability. This includes providing accurate updates
+from the time an order is placed until it is successfully delivered.
+
+Customers may contact support to:
+- Confirm whether an order has been successfully placed
+- Track the current status of an order or shipment
+- Understand delivery timelines and delays
+- Check availability of products across supported categories
+- Request estimated restock timelines for unavailable items
+
+If a product is temporarily out of stock, customer support may suggest similar
+or alternative products from the same or related categories, ensuring customers
+have suitable replacement options.
+
+Stock availability and delivery estimates may vary based on demand, supplier
+constraints, warehouse location, and the specific product category involved.
+Support teams rely on system data to provide the most up-to-date information.
